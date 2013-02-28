@@ -32,7 +32,7 @@ docReady = ->
           legend:
             position: 'none'
 
-        chart = new google.visualization.LineChart(document.getElementById(stat))
+        chart = new google.visualization.AreaChart(document.getElementById(stat))
         chart.draw(data, options)
 
     drawChart('build-time', 'buildTime', 'Build Time')
