@@ -1,8 +1,8 @@
 # Concrete
 Concrete is a minimalistic Continuous Integration server.
 
-![concrete](https://github.com/edy-b/concrete/raw/master/src/screenshot_builds.png)
-![concrete](https://github.com/edy-b/concrete/raw/master/src/screenshot_stats.png)
+![concrete](https://github.com/edy/concrete/raw/master/src/screenshot_builds.png)
+![concrete](https://github.com/edy/concrete/raw/master/src/screenshot_stats.png)
 
 ## Quickstart
     git clone https://github.com/edy-b/concrete.git /path/to/concrete
