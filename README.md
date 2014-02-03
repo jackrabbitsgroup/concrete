@@ -1,11 +1,11 @@
 # Concrete
 Concrete is a minimalistic Continuous Integration server.
 
-![concrete](https://github.com/edy/concrete/raw/master/src/screenshot_builds.png)
-![concrete](https://github.com/edy/concrete/raw/master/src/screenshot_stats.png)
+![concrete](https://github.com/jackrabbitsgroup/concrete/raw/master/src/screenshot_builds.png)
+![concrete](https://github.com/jackrabbitsgroup/concrete/raw/master/src/screenshot_stats.png)
 
 ## Quickstart
-    git clone https://github.com/edy-b/concrete.git /path/to/concrete
+    git clone https://github.com/jackrabbitsgroup/concrete.git /path/to/concrete
     cd /path/to/concrete
     npm install
     cd yourrepository
